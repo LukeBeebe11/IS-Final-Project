@@ -1,0 +1,70 @@
+/* === Resume Site Styles === */
+
+body {
+  font-family: 'Muli', sans-serif;
+  background-color: #fdfdfd;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Saira Extra Condensed', sans-serif;
+  color: #2c3e50;
+}
+
+.text-primary {
+  color: #007bff !important;
+}
+
+.resume-section {
+  padding: 60px 20px;
+}
+
+.resume-section-content {
+  max-width: 900px;
+  margin: auto;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  margin: 2rem 0;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+/* Navigation */
+#sideNav {
+  background-color: #004080;
+}
+
+.nav-link {
+  font-weight: bold;
+  color: white;
+}
+
+.nav-link:hover {
+  color: #ffc107;
+}
+
+.img-profile {
+  width: 150px;
+  border: 3px solid white;
+}
