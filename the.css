@@ -6,9 +6,7 @@ body {
   padding: 0;
   line-height: 1.6;
 }
-body {
-  background-color: hotpink !important;
-}
+
 h1, h2, h3 {
   font-family: 'Saira Extra Condensed', sans-serif;
   color: #2c3e50;
